@@ -38,19 +38,19 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 ## Themengebiete
 Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für diesen Hackathon die Bereiche :
 #### Begleitung bei Einstieg in die Spieleentwicklung (ohne Programmierkenntnisse)
-# Anfänger
+*Für Anfänger*
 * Heranführung an die Spieleprogrammieung mit Hilfe eines Tutorials
 * fertiges Spiel, welches sich nachher noch durch durch features erweitern läßt
 
 #### Begleitung bei Einstieg in Unity (mit Programmierkenntnissen)
-# Fortgeschritten
+*Mit ersten Programmierkenntnisssen*
 * Prüfung der Spielidee auf Durchführbarkeit 
 * Unterstützung bei Ausarbeitung des GDD
 * erste Software-Design-Patterns (SOLID, Publish&Subscribe)
 * Tools (git)
 
 #### Begleitung bei Einstieg in Unity unter Verwendung von Software Design Patterns 
-# Fortgeschrittene
+*Fortgeschrittene*
 * Prüfung der Spielidee auf Durchführbarkeit 
 * Unterstützung bei Ausarbeitung des GDD
 * Unterstüzung bei autretenden Problemsitiation
