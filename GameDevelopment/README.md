@@ -33,24 +33,31 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
   * [Debugger for Unity] von Unity Technologies
   * [Unity Tools] von Tobiah Zarlez
   
-### Zum Testen von Multiplayer auf eigenem Rechner
-* VM-Ware Player [[Download]](https://my.vmware.com/de/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
-* Ubuntu 18.04 Server (wichtig: Docker bei Installation gleich mitinstallieren) [[Download]](https://www.ubuntu.com/download/server)
-* Docker-Compose [[Installationsanleitung]](https://docs.docker.com/compose/install/)
-* Nakama & CockroachDB als Docker Container starten [[Docker-Quickstart]](https://heroiclabs.com/docs/install-docker-quickstart/)
 ---
 
 ## Themengebiete
 Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für diesen Hackathon die Bereiche :
-#### Spieleentwicklung
-Einstieg in die Entwicklung von Computerspielen mit der Unity3d GameEngine.
+#### Begleitung bei Einstieg in die Spieleentwicklung (ohne Programmierkenntnisse)
+# Anfänger
+* Heranführung an die Spieleprogrammieung mit Hilfe eines Tutorials
+* fertiges Spiel, welches sich nachher noch durch durch features erweitern läßt
 
-#### Augmented Reality    
-Augmented Reality, das projizieren von computererzeugten Inhalten in die reale Welt könnte sich als ein sehr interessantes Anwendungsgebiet für Spiele und andere Anwendungen. Nicht zuletzt durch Spiele wie PokemonGo etc ist dieses Thema in aller Munde. Wir laden euch ein, euch in diesem Bereich kreative zu betätigen. Vorbereitet haben wir uns dabei auf die Arbeit mit dem Vuforia-Plugin unter Unity  
+#### Begleitung bei Einstieg in Unity (mit Programmierkenntnissen)
+# Fortgeschritten
+* Prüfung der Spielidee auf Durchführbarkeit 
+* Unterstützung bei Ausarbeitung des GDD
+* erste Software-Design-Patterns (SOLID, Publish&Subscribe)
+* Tools (git)
 
-#### Multiplayer
-Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Bereich den Programmierern mit 'schwarzem Gürtel' vorbehalten. Doch auch hier bringt der Trend zu OpenSource immer einfacher zu benutzende Tools hervor, wodurch die Entwicklung von Multiplayer-Spielen zwar nicht 'supereinfach' wird (hier gibt es immer noch genug zu beachten), aber doch wesentlich verständlicher. Wir bieten euch an, euch bei der Implementierung eines Multiplayer-Spiele-Prototyps zu unterstützen. Und zwar unter Verwendung des Open Source Nakama-Multiplayer Server und des entsprechenden Unity-Plugins. Hier findet ihr Resourcen um euch auf den Einstieg in Multiplayer vorzubereiten:
-* Nakama Multiplayer [https://heroiclabs.com/docs/gameplay-multiplayer-realtime/]
+#### Begleitung bei Einstieg in Unity unter Verwendung von Software Design Patterns 
+# Fortgeschrittene
+* Prüfung der Spielidee auf Durchführbarkeit 
+* Unterstützung bei Ausarbeitung des GDD
+* Unterstüzung bei autretenden Problemsitiation
+* Fortgeschrittene Tools unter Unity (z.B Profiler)
+* fortgeschrittene Software-Design-Patterns (z.b Dependency Injection)
+* Software-Testing
+* Tools (z.B. Unity-Collaborate, Trello, Hack&Plan)
 
 ---
 
