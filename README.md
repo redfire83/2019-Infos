@@ -1,4 +1,4 @@
-# 2018-Infos
+# 2019-Infos
 
 Der [PIT-Hackathon](https://paderborn-ist-informatik.de/entdecke-deine-zukunft/pit-hackathon/) in Paderborn findet auch im Jahr 2018 im [HNF](https://www.hnf.de) statt. Wie auch im letzten Jahr haben wir einige Themen vorbereitet, zu den wir hacken wollen.
 
