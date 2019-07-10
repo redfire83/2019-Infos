@@ -8,6 +8,8 @@ Das Thema 'Game Development beim [PIT-Hackathon 2019](https://github.com/PIT-Hac
 ### Generell
 Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte ihr), schon auf den Hackathon vorbereiten. Dazu haben wir für jeden interessante Kurse und Videos zusammen gestellt und erweiteren diese Liste ständig bis zu beginn des Hackathons
 
+Ihr solltet euch auf jeden Fall diese Grundlagen angesehen haben [Unity Basics](https://learn.unity.com/course/unity-basics?language=en)
+
 ### Unity
 Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
 Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich auf den Hackathon vorzubereiten:
@@ -130,6 +132,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 
 - Tutorials Spieleentwicklung:
     - [unity3d.college (Dragons)](https://unity3d.college/2019/06/05/how-to-make-a-game-in-unity-for-beginners/)
+    - [Unity Basics (Grundlagen)](https://learn.unity.com/course/unity-basics?language=en)
 - Massiv Open Online Courses (MOOC) zu Gamedesign und Gamedevelopment
     - [edX : 5 teiliger Kurs zu Gamedesign & -development](https://www.edx.org/xseries/video-game-design)
     - [studyToLearn: Kurs zu Konzepten im Gamedesign](https://www.open2study.com/courses/concepts-in-game-development)
