@@ -64,25 +64,16 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 ## SourceCode-Repositories
 
 ### Unity
-* [Level 100 - Lunar Lander Mentoren](https://github.com/BernhardRubow/example_unity_0004_lunar_lander)
-* [Level 100 - Centipede-Prototyp](https://github.com/BernhardRubow/example_unity_0003_centipede)
-* [Level 100 - Animationen in Unity](https://github.com/BernhardRubow/example_unity_0001_door_with_animations)
 * [Level 100 - Pathfinding with NavMesh](https://github.com/BernhardRubow/example_unity_0002_nav_mesh)
 * [Level 100 - Basic techniques in Unity](https://github.com/BernhardRubow/example_unity_0005_tutorials)
-* [Level 300 - Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
 * [Level 300 - Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
 * [Level 300 - Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
-* [Level 100 - Lunar Lander Mentoren](https://github.com/BernhardRubow/example_unity_0004_lunar_lander)
-* [Level 100 - Centipede-Prototyp](https://github.com/BernhardRubow/example_unity_0003_centipede)
-* [Level 100 - Animationen in Unity](https://github.com/BernhardRubow/example_unity_0001_door_with_animations)
-* [Level 100 - Pathfinding with NavMesh](https://github.com/BernhardRubow/example_unity_0002_nav_mesh)
-* [Level 100 - Basic techniques in Unity](https://github.com/BernhardRubow/example_unity_0005_tutorials)
 * [Tool - ScriptTemplateFile](https://gist.github.com/BernhardRubow/e088a4e43fc36245bca067b1fc48a86e)
 
 ---
 
 ## Womit entwickeln wir nachher?
-Wenn du unsere Vorlagen verwendest, dann benötigst du nur folgende Tools für die Entwicklung. Diese könnt ihr vorab auf eueren Geräten installieren oder wir machen das zu Beginn des Hackathons.
+Im Rahmen des Hackathons verwenden wir folgende Tools für die Entwicklung. Diese könnt ihr vorab auf eueren Geräten installieren oder wir machen das zu Beginn des Hackathons.
 
 ### 1. Git - Source Code Verwaltung 
 Wir wollen hier entwickeln, also machen wir es von Anfang an richtig. Da ist eine Versionsverwaltung ein Muss und keine Option. Damit könnt ihr jederzeit Nachvollziehen, wer was geändert hat und im idealen Fall können Änderungen ohne Probleme zusammengefasst werden. Wenn es dann doch mal einen Konflikt gibt, dann wird GIT euch den entsprechenden Bereich markieren und ihr könnte bequem (abhängig vom Editor) entscheiden welche Änderung übernommen werden soll. 
@@ -95,15 +86,10 @@ Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am best
 * Download: [https://code.visualstudio.com]
 
 ### 3. Unity3d
-* Download: [https://unity3d.com/de/unity/qa/lts-releases] Unity LTS 2017.4.6f1
+* Download: [https://unity3d.com/de/unity/qa/lts-releases] Unity LTS 2018.4.3f1
 
 ### 4. Trello
 Um im Team zusammenarbeiten zu können und immer überblick über das Projekt zu haben, setzen wir ein sehr einfaches aber extrem mächtiges Werkzeug ein. Trello ist ein sog. Kanban-Board mit dem man auf unkomplizierte Weise ein Projekt steuern kann. Diese Tool ist kostenlos.
-
-### 5. Lua
-Wenn ihr nicht mit Unity arbeiten möchtet, gibt es noch eine sehr viel einfacher gestrickte GameEngine mit der Ihr Spiele entwickeln könnt. Diese setzt auf die Programmiersprache Lua. Hier sind die Mentoren aber nicht ganz so drauf vorbereitet.
-* Download: Löve2D 2d GameEngine [https://love2d.org/]
-
 
 ---
 
@@ -139,70 +125,9 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 
 ---
 
-## Welche GameEngines könnte ich noch verwenden?
-Es gibt [diverse Game Engines](https://github.com/showcases/javascript-game-engines) mit der ihr euer Game erstellen könnt. Um euch die Auswahl zu erleichtern haben wir verschiedene Engines ausgewählt und entsprechende Vorlagen vorbereitet.
-
-### PlayCanvas
-PlayCanvas ist eine komplett auf JavaScript basiserende GameEngine die durchgehend webbasierend ist, d.h. sogar der Editor wird gleich im Web mit angeboten. Man braucht nichts zu installieren und kann gleiche loslegen (wenn man weiß, wie es geht).
-
-#### Links
-[https://playcanvas.com/](https://playcanvas.com/)
-
-### Phaser
-Phaser ist eine Open Source 2D Game Engine um HTML 5 Spiele für den Browser als auch dem Desktop zu entwickeln.
-
-##### Links
-- [http://phaser.io](http://phaser.io)
-
-### Babylon.js
-Babylon.js ist eine Open Source 3D Game Engine. Die Engine wurde komplett in Typescript geschrieben.
-
-##### Links
-- [https://www.babylonjs.com](https://www.babylonjs.com)
-
-### Three.js
-Wer eine 3D-Anwendung wie ein Spiel ins Internet bringen will, kommt an WebGL kaum vorbei. Doch die Programmierung darin ist umständlich und fehleranfällig. Mit der JavaScript-Bibliothek Three.js gehts viel leichter.
-WebGL bietet dem JavaScript-Entwickler eine Unmenge an Möglichkeiten – von der Darstellung einfacher 3D-Modelle bis hin zur direkten Programmierung des Grafikprozessors. 
-
-##### Links
-- [https://threejs.org](https://threejs.org)
-
----
-
-## Vorlagen auf GitHub
-
-Vorlagen auf GitHub:
-- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Phaser-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Phaser-ES2017)
-
-Vorlagen auf GitHub:
-- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Babylon-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Babylon-ES2017)
-- TypeScript [https://github.com/PIT-Hackathon/2017-WebGame-Babylon-TypeScript](https://github.com/PIT-Hackathon/2017-WebGame-Babylon-TypeScript)
-
-Vorlagen auf GitHub:
-- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Three-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Three-ES2017)
-
-
 
 ## Tutorials & Anleitungen
 
-- Phaser
-    - [http://phaser.io/](http://phaser.io/)
-    - [Examples](http://phaser.io/examples)
-- Babylon.js
-    - [https://www.babylonjs.com/](https://www.babylonjs.com/)
-    - [Tutorials](http://doc.babylonjs.com/tutorials)
-- Three.js
-    - [https://threejs.org/](https://threejs.org/)
-    - [Examples](https://threejs.org/examples/)
-- Javascript [ECMAScript 2017] 
-    - [Grundlagen_der_Programmierung](https://wiki.selfhtml.org/wiki/JavaScript/Tutorials/Grundlagen_der_Programmierung)
-    - [ECMAScript 6 (2015) Tutorial](http://ccoenraets.github.io/es6-tutorial/)
-    - [ES2017 async/await to the rescue](https://medium.com/@tmvvr/ecmascript-async-await-to-the-rescue-fc379ff89146)
-- Typescript [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
-    - [Typescript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-    - [Playground](https://www.typescriptlang.org/play/index.html)
-- HTML5
-    - [Tutorial](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5-Grundger%C3%BCst)
 - Massiv Open Online Courses (MOOC) zu Gamedesign und Gamedevelopment
     - [edX : 5 teiliger Kurs zu Gamedesign & -development](https://www.edx.org/xseries/video-game-design)
     - [studyToLearn: Kurs zu Konzepten im Gamedesign](https://www.open2study.com/courses/concepts-in-game-development)
