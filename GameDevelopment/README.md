@@ -129,7 +129,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 ## Tutorials & Anleitungen
 
 - Tutorials Spieleentwicklung:
-    - [https://unity3d.college (Dragons)](https://unity3d.college/2019/06/05/how-to-make-a-game-in-unity-for-beginners/)
+    - [unity3d.college (Dragons)](https://unity3d.college/2019/06/05/how-to-make-a-game-in-unity-for-beginners/)
 - Massiv Open Online Courses (MOOC) zu Gamedesign und Gamedevelopment
     - [edX : 5 teiliger Kurs zu Gamedesign & -development](https://www.edx.org/xseries/video-game-design)
     - [studyToLearn: Kurs zu Konzepten im Gamedesign](https://www.open2study.com/courses/concepts-in-game-development)
