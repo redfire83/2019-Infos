@@ -8,13 +8,7 @@ Das Thema 'Game Development beim [PIT-Hackathon 2018](https://github.com/PIT-Hac
 ### Generell
 Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte ihr), schon auf den Hackathon vorbereiten. Dazu haben wir für jeden interessante Kurse und Videos zusammen gestellt und erweiteren diese Liste ständig bis zu beginn des Hackathons
 
-#### Für Einsteiger
-Entwicklung von Spieleprototypen mit der Scriptsprache Lua. Dies ermöglich einen unkomplizierten Einstieg in die Programmierung von Computerspielen. Hierzu werden wir euch eine eine Reihe bekannter Games (Pong, Flappy Bird, etc) im SourceCode an die Hand geben, worauf ihr eure eigenen Prototypen entwicklen könnt und den grundlegenden Aufbau von Computerspielen erfahren könnt.
-Mit diesem tollen Kurs könnte ihr euch auf diesen Bereich in den Ferien vorbereiten:
-* Harvard's Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
-
-
-#### Fortgeschrittene
+### Unity
 Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
 Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich auf den Hackathon vorzubereiten:
 * Coursera Game Design Spezialisation [https://www.coursera.org/learn/game-development]
@@ -31,7 +25,7 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 * Ver Beginn des Hackathons einen Trello Account anlegen. [Trello](https://trello.com)
 
 ### Installation von Software
-* Unity LTS-Version 2017.4.10f1 installieren: [[Download]](https://download.unity3d.com/download_unity/f2cce2a5991f/UnityDownloadAssistant-2017.4.10f1.exe?_ga=2.140752240.375123843.1535747211-1834572736.1528185000)
+* Unity LTS-Version 2018.4.3.f1 installieren: [Download](https://download.unity3d.com/download_unity/8a9509a5aff9/UnityDownloadAssistant-2018.4.3f1.exe)
 * Git installieren: [[Download]](https://git-scm.com/)
 * Visual Studio Code installieren: [[Download]](https://code.visualstudio.com/)
 * In Visual Studio Code folgende Plugins installieren
