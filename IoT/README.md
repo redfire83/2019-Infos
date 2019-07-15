@@ -1,6 +1,6 @@
 # IoT - Internet of Things
 
-Eines der Themen für den [PIT-Hackathon 2018](https://github.com/PIT-Hackathon/2018-Infos) ist die Entwicklung eines IoT Systems und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
+Eines der Themen für den [PIT-Hackathon 2019](https://github.com/PIT-Hackathon/2019-Infos) ist die Entwicklung eines IoT Systems und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
 
 ## Was ist IoT?
 
