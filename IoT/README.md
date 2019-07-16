@@ -32,9 +32,9 @@ Einst als kleiner und günstiger Computer für Schulen und die Lehre entwickelt,
 
 ![Raspberry Pi 3](images/RaspberryPi.jpg)
 
-#### NodeMCU / ESP8266
+#### NodeMCU / ESP8266 / ESP32
 
-Die NodeMCU Hardware ist eine Mikrocontroller-Plattform ähnlich zum Arduino. Da sie sehr günstig ist und zudem auch WLAN mitbringt, ist sie bestens geeignet um Sensorknoten für unser IoT-System zu entwickeln. Im Gegensatz zum Raspberry Pi ist sie natürlich nicht so leistungsfähig, dennoch reicht die Geschwindigkeit zum Erfassen und Senden von Sensordaten aus.
+Die NodeMCU-Hardware ist eine Mikrocontroller-Plattform, die sich u.a. mit der Arduino IDE programmieren lässt. Da sie sehr günstig ist und zudem auch WLAN mitbringt (der ESP32 hat zusätzlich Bluetooth LE zu bieten), ist sie bestens geeignet, um Sensorknoten für ein IoT-System zu entwickeln. Im Gegensatz zum Raspberry Pi ist sie natürlich nicht so leistungsfähig, dennoch reicht die Geschwindigkeit zum Erfassen und Senden von Sensordaten mehr als aus.
 
 - <http://www.mikrocontroller-elektronik.de/nodemcu-esp8266-tutorial-wlan-board-arduino-ide/>
 
@@ -42,11 +42,10 @@ Die NodeMCU Hardware ist eine Mikrocontroller-Plattform ähnlich zum Arduino. Da
 
 #### Sensoren
 
-Damit Du Deine IoT Idee umsetzen kannst, haben wir versucht, eine Auwahl an Sensoren und Aktoren zu treffen, die Dir und den anderen Gruppen während des Hackathons zur Verfügung stehen. Schau Dir doch mal die Liste an, vielleicht hast Du ja eine gute Idee, was für ein Projekt man mit den Bauteilen umsetzen könnte. Die genauen Bezeichnungen der Module können Dir helfen, mehr Informationen zu den einzelnen Komponenten zu finden.
+Damit Du Deine IoT-Idee umsetzen kannst, haben wir versucht, eine Auswahl an Sensoren und Aktoren zusammenzustellen, die Dir und den anderen Gruppen während des Hackathons zur Verfügung stehen wird. Schau Dir doch einmal die Liste an; vielleicht hast Du ja eine gute Idee, was für ein Projekt man mit den vorhandenen Bauteilen umsetzen könnte. Die genauen Bezeichnungen der Module können Dir helfen, mehr Informationen zu den einzelnen Komponenten zu finden.
 
 - NFC Module (RC522 RFID-Modul) und passende NFC Tags zur kontaktlosen Kommunikation ([Arduino Bibliothek](https://github.com/miguelbalboa/rfid))
 - ESP32
-- ~~TFT Displays (240x320, ILI9341 kompatibel)~~
 - Adafruit NeoPixel Stick
 - Temperatur- / Luftfeuchtigkeitssensoren (DHT22)
 - Gyroskop (Lagesensor, der Bewegungen in unterschiedliche Richtungen erkennen kann - ITG3205)
