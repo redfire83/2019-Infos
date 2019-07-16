@@ -53,8 +53,6 @@ Damit Du Deine IoT-Idee umsetzen kannst, haben wir eine Auswahl an Sensoren und 
 - 433MHz Sender zum Steuern von Funksteckdosen
 - ... und viele weitere Sensoren und Aktoren
 
-##### Bibliotheken
-
 #### MQTT - MQ Telemetry Transport oder Message Queue Telemetry Transport
 
 MQTT ist ein Nachrichtenprotokoll für die sogenannte M2M (Machine to Machine) Kommunikation. Es ist relativ leichtgewichtig, wird sowohl vom Raspberry Pi als auch von den NodeMCU Mikrocontrollern unterstützt, hat sich im Bereich IoT einen festen Platz ergattert und soll damit als Grundlage für die Kommunikation während des Hackathons dienen.
@@ -62,6 +60,10 @@ MQTT ist ein Nachrichtenprotokoll für die sogenannte M2M (Machine to Machine) K
 Die Kommunikation mit dem Server (im MQTT Umfeld auch Broker genannt) erfolgt von Seiten der Clients über Topics, auf die sie lesen oder schreiben können. Topics können dabei hierarchisch angelegt werden. Ein Beispiel wäre eine Wetterstation, die in das Topic "/wetter/paderborn/temperatur" jeweils die aktuelle Temperatur hineinschreibt. Ein weiterer Client könnte dann auf dieses Topic lauschen und wird vom Broker benachrichtigt, wenn es neue Ereignisse zum jeweiligen Topic gibt.
 
 - [Einführung in MQTT](https://www.predic8.de/mqtt.htm)
+
+#### LoRaWAN und The Things Network (TTN)
+
+Für Sensordaten immer beliebter wird LoRa bzw. [LoRaWAN](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network). Diese Funktechnik verwendet frei verfügbare Frequenzbänder, um Daten über längere Distanzen (Kilometer sind möglich) zu versenden. Auch wenn die Datenrate bei weitem nicht so hoch ist wie bei WLAN oder GSM/UMTS/LTE oder Bluetooth, ist es eine sehr energiesparende und robuste Möglichkeit, (wenige) Daten sicher zu versenden. Empfangen werden sie von Gateways, die bspw. das offene [The Things Network](https://www.thethingsnetwork.org/) zur Verfügung stellt.
 
 ### Tools
 
