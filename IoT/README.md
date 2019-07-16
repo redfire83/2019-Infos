@@ -4,19 +4,21 @@ Eines der Themen für den [PIT-Hackathon 2019](https://github.com/PIT-Hackathon/
 
 ## Was ist IoT?
 
-Der Begriff IoT steht für Internet of Things bzw. das Internet der Dinge. Grob gesagt, wird versucht, die analoge Welt um uns herum digital greifbar zu machen um mit diesen Daten neue Informationen zu gewinnen und sie weiterzuverarbeiten. Sei es ein einfacher Schalter oder ein Bewegungssensor, die Wetterstation oder das Hamsterrad - alles kann Daten liefern und ins Netz gestellt werden. Genauso können die vernetzen Geräte auf diese Daten zugreifen und selbst wieder auf andere Daten reagieren.
+Der Begriff IoT steht für *Internet of Things* bzw. das Internet der Dinge. Grob gesagt wird versucht, die analoge Welt um uns herum digital greifbar zu machen, um mit diesen Daten neue Informationen zu gewinnen und sie weiterzuverarbeiten. Sei es ein einfacher Schalter oder ein Bewegungssensor, die Wetterstation oder das Hamsterrad - alles kann Daten liefern und ins Netz gestellt werden. Genauso können die vernetzten Geräte auf diese Daten zugreifen und selbst wieder auf andere Daten reagieren.
 
 ## Was muss ich können/mitbringen, um eine IoT Anwendung beim Hackathon zu entwickeln?
 
-Spaß am Basteln und gute Ideen. Evtl. kennst Du bereits den Arduino, den Raspberry Pi oder ein NodeMCU und hast schonmal damit gearbeitet oder Du kennst Dich etwas mit Elektronik aus.
+Spaß am Basteln und gute Ideen. Evtl. kennst Du bereits den Arduino, den Raspberry Pi, den ATTiny oder eine NodeMCU (ESP8266/ESP32) und hast schon einmal damit gearbeitet oder Du kennst Dich etwas mit Elektronik aus.
 
 ## Das hört sich schon mal gut an - wie geht es weiter?
 
-Welches Thema Du wählen möchtest, musst Du erst zu Beginn des Hackathons entscheiden. Vielleicht informierst Du Dich schon mal bei den [anderen Themen](https://github.com/PIT-Hackathon/2017-Infos), ob noch eine Alternative für Dich dabei ist.
+Welches Thema Du wählen möchtest, musst Du erst zu Beginn des Hackathons entscheiden. Vielleicht informierst Du Dich schon einmal vorab bei den [anderen Themen](https://github.com/PIT-Hackathon/2019-Infos), ob noch eine Alternative für Dich dabei ist.
 
 ## Kann ich mich schon irgendwie vorbereiten?
 
-Eine Vorbereitung ist nicht notwendig, erlaubt Dir aber natürlich an dem Wochenende tiefer ins Thema einzusteigen. Falls Du also schonmal ins Thema reinschnuppern möchtest, findest Du hier ein paar Links. Schaue Dir doch mal ein paar Tutorials an, vielleicht hast Du ja schon eine gute Idee, die Du während des Hackathons kurz vorstellen und dann gemeinsam in der Gruppe umsetzen möchtest.
+Eine Vorbereitung ist nicht notwendig, würde es Dir aber natürlich ermöglichen, an dem Wochenende des Hackathons tiefer in das Thema einzusteigen. Falls Du also schon einmal ins Thema reinschnuppern möchtest, findest Du hier ein paar Links. Schaue Dir doch mal ein paar Tutorials an, vielleicht hast Du ja schon eine gute Idee, die Du während des Hackathons kurz vorstellen und dann gemeinsam in der Gruppe umsetzen möchtest.
+
+Zusätzlich zu Deinen eigenen Ideen wird es von den Mentoren Vorschläge zum Thema IoT geben, die in diesem Jahr unter der Überschrift "Digitale Stadt" stehen. Hierbei geht es um die Entwicklung von Systemen (Prototypen), die letztendlich das Wohnen und Arbeiten in Deiner Stadt vereinfachen oder verbessern könnten. Vorstellbar sind zum Beispiel die Überwachung von Parkplätzen (für Autos und Fahrräder), die Meldung von Pegelständen (Hochwasserwarnungen), das grobe Zählen anwesender Personen bei Versammlungen (für Rettungsdienste) und vieles mehr. 
 
 ### Hardware / Software
 
