@@ -184,8 +184,8 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 
 ## Cheat Sheets (Merkblätter über die wichtigsten Befehle und Funktionen eine Software)
 
-- [Unity3d](https://www.raywenderlich.com/227-unity-cheat-sheet-and-quick-reference-2018)
-- [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Unity3d] (https://www.raywenderlich.com/227-unity-cheat-sheet-and-quick-reference-2018)
+- [MarkDown] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Git] (https://www.git-tower.com/blog/git-cheat-sheet/)
-- [MS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [MS Code] (https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
