@@ -8,7 +8,7 @@ Das Thema 'Game Development beim [PIT-Hackathon 2019](https://github.com/PIT-Hac
 ### Generell
 Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte ihr), schon auf den Hackathon vorbereiten. Dazu haben wir für jeden interessante Kurse und Videos zusammen gestellt und erweiteren diese Liste ständig bis zu beginn des Hackathons
 
-Ihr solltet euch auf jeden Fall diese Grundlagen angesehen haben [Unity Basics](https://learn.unity.com/course/unity-basics?language=en)
+Ihr solltet euch auf jeden Fall diese Grundlagen angesehen haben:
 - [Unity Interface](https://youtu.be/D7v2pjke5sc)
 - [Unity Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?courseId=5d532306edbc2a1334dd9aa8)
 - [Unity Prefabs](https://youtu.be/H1OkG3a1w-o)
