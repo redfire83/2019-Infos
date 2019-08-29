@@ -9,6 +9,10 @@ Das Thema 'Game Development beim [PIT-Hackathon 2019](https://github.com/PIT-Hac
 Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte ihr), schon auf den Hackathon vorbereiten. Dazu haben wir für jeden interessante Kurse und Videos zusammen gestellt und erweiteren diese Liste ständig bis zu beginn des Hackathons
 
 Ihr solltet euch auf jeden Fall diese Grundlagen angesehen haben [Unity Basics](https://learn.unity.com/course/unity-basics?language=en)
+- [Unity Interface](https://youtu.be/D7v2pjke5sc)
+- [Unity Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?courseId=5d532306edbc2a1334dd9aa8)
+- [Unity Prefabs](https://youtu.be/H1OkG3a1w-o)
+- [Unity In Depths](https://learn.unity.com/course/teaching-game-design-and-development)
 
 ### Unity
 Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
@@ -178,4 +182,10 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
     
     
 
+## Cheat Sheets (Merkblätter über die wichtigsten Befehle und Funktionen eine Software)
+
+- [Unity3d](https://www.raywenderlich.com/227-unity-cheat-sheet-and-quick-reference-2018)
+- [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Git] (https://www.git-tower.com/blog/git-cheat-sheet/)
+- [MS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
