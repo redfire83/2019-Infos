@@ -6,7 +6,7 @@ sorgfältig ausgewählter Architektur, testgetriebener Entwicklung und
 Pair Programming gut im Team arbeiten kann. 
 
 Denn wir sind überzeugt: Software-Entwicklung ist ein Team-Sport der mehr
-Spass bringt wenn man die richtigen Techniken kennt.
+Spass bringt, wenn man die richtigen Techniken kennt.
 
 ![Let's do This!][success-kid]
 
